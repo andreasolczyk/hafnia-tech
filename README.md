@@ -1,6 +1,6 @@
 # Hafnia Technologies
 
-Website for [hafnia.tech](https://hafnia.tech): technology concepts built in Copenhagen.
+Website for [hafnia.tech](https://hafnia.tech): technology concepts born in Copenhagen.
 
 A single static page hosted on GitHub Pages. No build step and no outside requests:
 the font is embedded in `index.html`, and the logo animation is plain JavaScript and SVG.
